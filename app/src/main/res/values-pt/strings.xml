@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="player">Jogador</string>
+	<string name="play">Jogar</string>
+	<string name="player_name">Nome do Jogador</string>
+	<string name="insert_name">Insira seu nome</string>
+	<string name="win">Vitórias</string>
+	<string name="lose">Derrotas</string>
+	<string name="spare">Empates</string>
+</resources>
